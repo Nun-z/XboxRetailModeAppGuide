@@ -33,7 +33,7 @@ This method (used first by tunip3) allows apps to be installed to an Xbox in ret
 
 ### Introduction
 
-This guide will describe the process of uploading a Universal Windows Platform (UWP) app to the Microsoft Store for use on an Xbox in retail mode.  Apps that you install to your Xbox in this way will not need to be sideloaded in dev mode.  This is useful for reasons including avoiding having to restart the Xbox and bypassing the 2 GB file size limit imposed on dev mode.
+This guide will describe the process of uploading a Universal Windows Platform (UWP) app to the Microsoft Store for use on an Xbox in retail mode.  Apps that you install to your Xbox in this way will not need to be sideloaded in dev mode.  This is useful for avoiding having to restart the Xbox and bypassing the 2 GB file size limit imposed on dev mode.
 
 There are some things you should be aware of if you choose to follow this guide.  Installing emulation apps to an Xbox in retail mode is against Microsoft’s terms of service.  Breaking these terms of service often leads to being banned from uploading further apps to the Microsoft Store, requiring you to then purchase dev mode for a new Microsoft account.  For each account, you will need to pay around $2 in order to start uploading apps to the store.
 
