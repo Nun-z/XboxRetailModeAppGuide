@@ -37,7 +37,7 @@ This guide will describe the process of uploading a Universal Windows Platform (
 
 There are some things you should be aware of if you choose to follow this guide.  Installing emulation apps to an Xbox in retail mode is against Microsoft’s terms of service.  Breaking these terms of service often leads to being banned from uploading further apps to the Microsoft Store, requiring you to then purchase dev mode for a new Microsoft account.  For each account, you will need to pay around $2 in order to start uploading apps to the store.
 
-To summarize what must be done, you must first create a template for an app on Microsoft Partner Center (used for releasing UWP apps to the Microsoft Store), indicate that the app will either be available to a private or public audience, associate the app’s source code with the project you created in Partner Center, generate a package that can be uploaded to Partner Center, upload the package to Partner Center, submit the Partner Center project to Microsoft, create a website with a link to your app’s Microsoft Store page, and then click on that link using your Xbox’s Edge browser (or paste the app's link directly into the Xbox's edge broweser).
+Once you've signed up for a Microsoft dev account, this tutorial will have you use a tool known as the Scarlet Sideloader to quickly upload your apps to the Microsoft Store.  If you encounter a technical error when using the sideloader, please report it to the tool's GitHub page here: https://github.com/Dantes-Dungeon/Scarlet-Sideloader/issues.
 
 ### Requirements
 
