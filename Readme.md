@@ -45,7 +45,7 @@ To follow this guide, you will need $2 and a computer running Windows.
 
 ### Step 1: Sign up for a developer account
 
-If you have a Microsoft account that you log into on your Xbox and $1, you have everything you need to complete this step.  If you have a developer account already, skip this step.
+If you have a Microsoft account that you log into on your Xbox and $2, you have everything you need to complete this step.  If you have a developer account already, skip this step.
 
 **1.**  Go to this URL (https://developer.microsoft.com/en-us/store/register/) and click on the “sign up” button.
 
