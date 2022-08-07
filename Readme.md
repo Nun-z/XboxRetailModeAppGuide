@@ -51,7 +51,7 @@ If you have a Microsoft account that you log into on your Xbox and $1, you have 
 
 **2.**  If you are not already signed in with your Xbox’s Microsoft account, sign in using the prompt displayed.
 
-**3.**  You will then be presented with a dropdown menu for selecting your region.  If you choose Argentina, you will end up paying around $1 USD, as long as you can submit payment using a credit card or other card that will pass verification.  If you choose United States or most other countries, you will end up paying around $20.
+**3.**  You will then be presented with a dropdown menu for selecting your region.  Choose Argentina.
 
 **4.**  Once you select a region, the account type options will be displayed.  Select “individual” account type option.
 ![AccountType](https://i.imgur.com/3M84Ydq.png "Sign up for an individual account")
