@@ -41,7 +41,7 @@ Once you've signed up for a Microsoft dev account, this tutorial will have you u
 
 ### Requirements
 
-To follow this guide, you will need $20 (unless you already have a Microsoft developer account), a computer running Windows, git, and Visual Studio 2017 or 2019.  You may be able to just pay $1 if you have access to a credit card that will pass verification.  The installation of Visual Studio and git is not within the scope of this guide.
+To follow this guide, you will need $2 and a computer running Windows.
 
 ### Step 1: Sign up for a developer account
 
