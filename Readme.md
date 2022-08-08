@@ -55,3 +55,8 @@ If you have a Microsoft account that you log into on your Xbox and $2, you have 
 **8.**  Enter your payment information, go to the Review page, and complete the purchase.  You now have a Microsoft developer account.
 
 ### Step 2: Install Partner Token
+
+**1.**  Download Partner Token [here](https://github.com/Dantes-Dungeon/PartnerToken/archive/refs/heads/main.zip).
+
+**2.**  Extract the archive to `C:\`.
+ 
