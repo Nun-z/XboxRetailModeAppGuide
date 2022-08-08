@@ -9,27 +9,17 @@ This method (used first by tunip3) allows apps to be installed to an Xbox in ret
 
 * [Step 1: Sign up for a developer account](#step-1-sign-up-for-a-developer-account)
 
-* [Step 2: Create an application in Microsoft Partner Center](#step-2-create-an-application-in-microsoft-partner-center)
+* [Step 2: Install Partner Token](#step-2-install-partner-token)
     
-    * [Step 2.1: Enter availability settings](#step-21-enter-availability-settings)
+    * [Step 2.1: Chrome steps](#step-21-chrome-steps)
     
-    * [Step 2.2: Enter properties settings](#step-22-enter-properties-settings)
-    
-    * [Step 2.3: Enter age ratings settings](#step-23-enter-age-ratings-settings)
-    
-    * [Step 2.4: Enter store listing settings](#step-24-enter-store-listing-settings)
+    * [Step 2.2: Edge steps](#step-22-edge-steps)
 
-* [Step 3: Prepare the application's package for upload](#step-3-prepare-the-applications-package-for-upload)
+* [Step 3: Upload apps to the Microsoft Store using Scarlet Sideloader](#step-3-upload-apps-to-the-microsoft-store-using-scarlet-sideloader)
 
-    * [Step 3.1: You have the source code](#Step-31-you-have-the-source-code)
-    
-    * [Step 3.2: You don't have the source code or don't want to compile the app](#Step-32-you-dont-have-the-source-code-or-dont-want-to-compile-the-app)
+* [Step 4: Create a website that links to the app or copy over the link](#step-4-create-a-website-that-links-to-the-app-or-copy-over-the-link)
 
-* [Step 4: Upload the application to the Microsoft Store](#step-4-upload-the-application-to-the-microsoft-store)
-
-* [Step 5: Create a website that links to the app or copy over the link](#step-5-create-a-website-that-links-to-the-app-or-copy-over-the-link)
-
-* [Step 6: Install the app to your Xbox in retail mode](#step-6-install-the-app-to-your-xbox-in-retail-mode)
+* [Step 5: Install the app to an Xbox in retail mode](#step-5-install-the-app-to-an-xbox-in-retail-mode)
 
 ### Introduction
 
