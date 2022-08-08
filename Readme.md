@@ -53,3 +53,5 @@ If you have a Microsoft account that you log into on your Xbox and $2, you have 
 **7.**  On the next page, click on “add a new payment method.”
 
 **8.**  Enter your payment information, go to the Review page, and complete the purchase.  You now have a Microsoft developer account.
+
+### Step 2: Install Partner Token
