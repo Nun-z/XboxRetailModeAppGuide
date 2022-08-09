@@ -11,9 +11,9 @@ This method (used first by tunip3) allows apps to be installed to an Xbox in ret
 
 * [Step 2: Install Partner Token](#step-2-install-partner-token)
     
-    * [Step 2.1: Installation on Chrome steps](#step-21-installation-on-chrome-steps)
+    * [Step 2.1: Installation on Chrome](#step-21-installation-on-chrome)
     
-    * [Step 2.2: Installation on Edge steps](#step-22-installation-on-edge-steps)
+    * [Step 2.2: Installation on Edge](#step-22-installation-on-edge)
 
 * [Step 3: Upload apps to the Microsoft Store using Scarlet Sideloader](#step-3-upload-apps-to-the-microsoft-store-using-scarlet-sideloader)
 
