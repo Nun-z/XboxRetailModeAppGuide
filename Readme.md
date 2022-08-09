@@ -60,3 +60,8 @@ If you have a Microsoft account that you log into on your Xbox and $2, you have 
 
 **2.**  Extract the archive to `C:\`.
  
+If you are using Chrome, continue to step 2.1.  If you are using Edge, continue to step 2.2.
+
+#### Step 2.1: Installation on Chrome
+
+#### Step 2.2: Installation on Edge
