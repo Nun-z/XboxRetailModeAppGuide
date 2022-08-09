@@ -48,7 +48,7 @@ If you have a Microsoft account that you log into on your Xbox and $2, you have 
 
 **5.**  Scroll down to the “publisher display name (company name)” textbox and enter your desired publisher name.  This can be anything as long as it hasn’t already been claimed by someone else.
 
-**6.**  Scroll down and fill in the “contact info” textboxes.  Then, press the “next” button at the bottom of the page.
+**6.**  Scroll down and fill in the “contact info” textboxes.  Use 1895 for the zip code  Then, press the “next” button at the bottom of the page.
 
 **7.**  On the next page, click on “add a new payment method.”
 
