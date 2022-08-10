@@ -64,4 +64,8 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 
 #### Step 2.1: Installation on Chrome
 
+**2.1.1**  Open Chrome.
+
+**2.1.2**  Click on the puzzle piece icon at the top-right of the application and then click on Manage Extensions.
+
 #### Step 2.2: Installation on Edge
