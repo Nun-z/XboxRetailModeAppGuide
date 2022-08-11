@@ -68,6 +68,6 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 
 **2.1.2.**  Click on the puzzle piece icon at the top-right of the application and then click on Manage Extensions.
 
-![OpenExtensionsChrome](https://i.imgur.com/P8zWzJH.png "Open the extensions menu")
+![OpenExtensionsChrome](https://i.imgur.com/t0ZIHp5.png "Open the extensions menu")
 
 #### Step 2.2: Installation on Edge
