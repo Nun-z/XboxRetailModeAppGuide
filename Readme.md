@@ -72,4 +72,6 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 
 **2.1.3.**  Enable developer mode.
 
+![EnableDeveloperModer](https://i.imgur.com/EyKzbhE.png "Enable developer mode")
+
 #### Step 2.2: Installation on Edge
