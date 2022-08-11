@@ -74,6 +74,6 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 
 ![EnableDeveloperModer](https://i.imgur.com/EyKzbhE.png "Enable developer mode")
 
-**2.1.4.**  Click on the "Load unpacked" button at the top-left of the application.
+**2.1.4.**  Click on the "Load unpacked" button that has now apeared at the top-left of the application.
 
 #### Step 2.2: Installation on Edge
