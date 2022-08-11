@@ -70,4 +70,6 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 
 ![OpenExtensionsChrome](https://i.imgur.com/t0ZIHp5.png "Open the extensions menu")
 
+**2.1.3.**  Enable developer mode.
+
 #### Step 2.2: Installation on Edge
