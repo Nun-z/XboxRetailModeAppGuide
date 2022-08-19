@@ -77,3 +77,11 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 **2.1.4.**  Click on the "Load unpacked" button that has now apeared at the top-left of the application.
 
 #### Step 2.2: Installation on Edge
+
+**2.2.1.**  Open Edge.
+
+**2.2.2.**  Click on the puzzle piece icon at the top-right of the application and then click on Manage Extensions.
+
+**2.2.3.**  Enable developer mode.
+
+**2.2.4.**  Click on the "Load unpacked" button that has now apeared at the center-top of the application.
