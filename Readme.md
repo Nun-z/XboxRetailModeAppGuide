@@ -93,3 +93,5 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 ### Step 3: Upload apps to the Microsoft Store using Scarlet Sideloader
 
 **1.** Download Scarlet Sideloader here: https://mega.nz/file/HAwDFJDL#liEDFGlUErLytmc33qbXoUvaK_UKmG6tFrx-vPxxDiU
+
+**2.** Extract the archive to `C:\Sideloader`.
