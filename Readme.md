@@ -95,3 +95,7 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 **1.** Download Scarlet Sideloader here: https://mega.nz/file/HAwDFJDL#liEDFGlUErLytmc33qbXoUvaK_UKmG6tFrx-vPxxDiU
 
 **2.** Extract the archive to `C:\Sideloader`.
+
+**3.**  You can use almost any .appx package, but for this guide download a RetroArch .appx package here: https://mega.nz/file/qQxVBSSS#8Z0XkISJJ2NDnyoYIVsnW5SA6SEU5QLHpu-ywcIJYRc
+
+**4.**  Move the .appx package to `C:\Sideloader`.
