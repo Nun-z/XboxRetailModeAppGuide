@@ -99,3 +99,11 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 **3.**  You can use almost any .appx package, but for this guide download a RetroArch .appx package here: https://mega.nz/file/qQxVBSSS#8Z0XkISJJ2NDnyoYIVsnW5SA6SEU5QLHpu-ywcIJYRc
 
 **4.**  Move the .appx package to `C:\Sideloader`.
+
+**5.**  Open the browser you installed Partner Token to and go to `https://partner.microsoft.com/en-us/dashboard/home`.
+
+**6.**  Click on the puzzle piece icon next to the browser's URL field and click on the Partner Token option.
+
+<insert image>
+
+**7.**  The cookie data you will need has now been copied to your clipboard.  Paste the string to a notepad file or anywhere else you can quickly access it.
