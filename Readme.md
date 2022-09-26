@@ -76,6 +76,8 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 
 **2.1.4.**  Click on the "Load unpacked" button that has now apeared at the top-left of the application.
 
+**2.1.5.**  Navigate to C:\PartnerToken-main and then click on Select Folder.
+
 #### Step 2.2: Installation on Edge
 
 **2.2.1.**  Open Edge.
@@ -85,3 +87,5 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 **2.2.3.**  Enable developer mode.
 
 **2.2.4.**  Click on the "Load unpacked" button that has now apeared at the center-top of the application.
+
+**2.2.5.**  Navigate to C:\PartnerToken-main and then click on Select Folder.
