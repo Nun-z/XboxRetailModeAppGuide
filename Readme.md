@@ -107,3 +107,7 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 <insert image>
 
 **7.**  The cookie data you will need has now been copied to your clipboard.  Paste the string to a notepad file or anywhere else you can quickly access it.
+
+**8.**  Press the Windows and R keyboard buttons simultaneously.
+
+**9.**  Type in `cmd` and then press the Enter key.
