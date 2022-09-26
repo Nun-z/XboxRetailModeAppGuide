@@ -111,3 +111,5 @@ If you are using Chrome, continue to step 2.1.  If you are using Edge, continue 
 **8.**  Press the Windows and R keyboard buttons simultaneously.
 
 **9.**  Type in `cmd` and then press the Enter key.
+
+**10.**  Enter `cd C:\Sideloader` in the command prompt and then press the Enter key.
